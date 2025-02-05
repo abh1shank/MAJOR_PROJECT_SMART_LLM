@@ -1,10 +1,7 @@
-# **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models**
+# **COGNITIVE-ROBO: COGNITIVE Multi-Agent Robot Task Planning using Large Language Models**
 
-Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, and Byung-Cheol Min. 
+Aashna Mahajan, Abhishank Saran, Aviral Singh, D shriram and Sukarayam Janjua. 
 
-Submitted to IEEE International Conference on Robotics and Automation (ICRA ), 2024
-
-[Project Page](https://sites.google.com/view/smart-llm/) | [arXiv](https://arxiv.org/abs/2309.10062) | [Video](https://www.youtube.com/watch?v=mssTPl7ifyI)
 
 **Abstract:** In this work, we introduce SMART-LLM, an innovative framework designed for embodied multi-robot task planning. SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models (LLMs), harnesses the power of LLMs to convert high-level task instructions provided as input into a multi-robot task plan. It accomplishes this by executing a series of stages, including task decomposition, coalition formation, and task allocation, all guided by programmatic LLM prompts within the few-shot prompting paradigm. We create a benchmark dataset designed for validating the multi-robot task planning problem, encompassing four distinct categories of high-level instructions that vary in task complexity. Our evaluation experiments span both simulation and real-world scenarios, demonstrating that the proposed model can achieve promising results for generating multi-robot task plans.
 
